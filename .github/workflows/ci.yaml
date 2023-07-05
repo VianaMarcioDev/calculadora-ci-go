@@ -1,6 +1,5 @@
 name: ci-golang-workflow
-on:
-[push]
+on: [push]
 
 jobs:
   check-application:
